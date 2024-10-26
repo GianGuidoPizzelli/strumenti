@@ -3,3 +3,4 @@ Arpa
 Mandolino
 Chitarra
 Liuto
+Banjo
